@@ -12,7 +12,7 @@ jobs:
       - name: Run a one-line script
         run: echo "Hello, CI/CD!"
 
-      #- name: Simulate an error (fixed)
+      #- name: Simulate an error (fixed error)
       #  run: echo "About to fail" ; exit 1
 
       #- name: Another greeting
